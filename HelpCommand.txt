@@ -1,0 +1,8 @@
+```
+   Red   
+
+(Prefix: '.')
+
+.ping - Display uptime and check if alive.
+.help - This.
+```
