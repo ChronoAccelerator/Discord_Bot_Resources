@@ -4,7 +4,9 @@
 
 - `ping` - Display uptime and check if alive
 - `profile` (or `avatar`) - Fetch profile of mentioned user
-- `coinflip` - Flip a coin!
+- `coinflip` - Flip a coin
+- `guess` - Play a guessing game
+- `rps` (or `rockpaperscissors`) - Play RPS with me
 - `help` - This
 
 ```
