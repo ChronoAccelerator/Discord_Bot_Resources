@@ -3,7 +3,8 @@
 
 (Prefix: '.')
 
-.ping - Display uptime and check if alive.
-.profile (Mention User) - Fetch profile of mentioned user.
-.help - This.
+ping - Display uptime and check if alive
+profile (Mention User) - Fetch profile of mentioned user
+coinflip - Flip a coin!
+help - This
 ```
