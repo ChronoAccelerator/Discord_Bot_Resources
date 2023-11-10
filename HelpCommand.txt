@@ -1,10 +1,11 @@
 ```
-   Red   
+   RedBot _ Help
+   Prefix: '.'
 
-(Prefix: '.')
+- `ping` - Display uptime and check if alive
+- `profile` (or `avatar`) - Fetch profile of mentioned user
+- `coinflip` - Flip a coin!
+- `ai` (or `askai`) - Ask AI.
+- `help` - This
 
-ping - Display uptime and check if alive
-profile (Mention User) - Fetch profile of mentioned user
-coinflip - Flip a coin!
-help - This
 ```
