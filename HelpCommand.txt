@@ -1,5 +1,7 @@
 ```
-   RedBot _ Help
+   RedBot by Chrono 
+         Help
+
    Prefix: '.'
 
 - `ping` - Display uptime and check if alive
@@ -8,5 +10,7 @@
 - `guess` - Play a guessing game
 - `rps` (or `rockpaperscissors`) - Play RPS with me
 - `help` - This
+
+Version(3.2) {Command Extension Update}
 
 ```
